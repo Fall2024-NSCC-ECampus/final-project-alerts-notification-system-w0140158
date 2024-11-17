@@ -2,7 +2,7 @@
 
 SafetyNet Alerts is a Spring Boot-based application designed to provide critical information related to fire stations, emergency alerts, and community data. The application exposes several RESTful APIs that allow users to query information about people, fire stations, and community emails based on various parameters.
 
-## Table of Contents
+## TOC
 
 - [Features](#features)
 - [Architecture](#architecture)
@@ -44,7 +44,7 @@ SafetyNet Alerts is structured following the Model-View-Controller (MVC) design 
 - **Controller**: Handles incoming HTTP requests, delegates processing to services, and returns appropriate responses.
 - **Service**: Contains the business logic, processing data from repositories and preparing responses.
 
-## Technologies Used
+## Tech Stack
 
 - **Java 17**
 - **Spring Boot**
@@ -55,7 +55,7 @@ SafetyNet Alerts is structured following the Model-View-Controller (MVC) design 
 - **JUnit & Mockito** for testing
 - **SLF4J & Logback** for logging
 
-## Installation
+## Instal
 
 1. **Clone the Repository**
 
