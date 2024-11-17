@@ -10,13 +10,13 @@ SafetyNet Alerts is a Spring Boot-based application designed to provide critical
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
-    - [Get People by Fire Station](#get-people-by-fire-station)
-    - [Child Alert](#child-alert)
-    - [Phone Alert](#phone-alert)
-    - [Fire Details by Address](#fire-details-by-address)
-    - [Flood Alerts](#flood-alerts)
-    - [Person Information](#person-information)
-    - [Community Emails](#community-emails)
+  - [Get People by Fire Station](#get-people-by-fire-station)
+  - [Child Alert](#child-alert)
+  - [Phone Alert](#phone-alert)
+  - [Fire Details by Address](#fire-details-by-address)
+  - [Flood Alerts](#flood-alerts)
+  - [Person Information](#person-information)
+  - [Community Emails](#community-emails)
 - [Testing](#testing)
 - [Logging](#logging)
 - [Contributing](#contributing)
@@ -60,5 +60,5 @@ SafetyNet Alerts is structured following the Model-View-Controller (MVC) design 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/safetynet-alerts.git
-   cd safetynet-alerts
+   git clone https://github.com/Fall2024-NSCC-ECampus/final-project-alerts-notification-system-w0140158.git
+   cd final-project-alerts-notification-system-w0140158
